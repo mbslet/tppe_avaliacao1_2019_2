@@ -1,0 +1,9 @@
+a - Interface publicada é quando a interface está sendo usada por um ou mais partes do código e não consegue ser modificada. Uma interface pública pode ser encontrada e modificada por qualquer parte do código.
+
+b - Cirurgia com Rifle é uma mudança que afeta várias classes e Mudança Divergentes é uma classe que sofre várias mudanças.
+
+c - Falsa, a refatoração é uma boa prática de melhoria de código mas não garante uma melhoria de desempenho e otimização de código.
+
+d - Uma refatoração obteve sucesso uma vez que as métricas definidas foram alcançadas e não afetou a funcionalidade do sistema.
+
+	
